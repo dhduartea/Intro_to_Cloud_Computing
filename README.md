@@ -31,7 +31,7 @@ The file includes a **functional index** that allows you to quickly navigate thr
 
 ## Credits
 
-All the content in this repository has been gathered from notes taken during the **Introduction to Cloud Computing** course at **Platzi**.
+All the content in this repository has been gathered from notes taken during the **Introduction to Cloud Computing** course at **Platzi** and enriched by ChatGPT
 
 ## License
 
